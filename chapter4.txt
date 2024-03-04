@@ -1,1 +1,1 @@
-a commit in a git repository records a snapshot of all the tracked files in your directory.
+a commit in a git repository records a snapshot of all the tracked files in your directory.now forking is done
